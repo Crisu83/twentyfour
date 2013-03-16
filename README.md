@@ -1,4 +1,4 @@
 twentyfour
 ==========
 
-Time tracking application built with Yii.
+Time tracking application.
